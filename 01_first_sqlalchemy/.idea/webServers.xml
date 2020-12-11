@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="6e2c72a9-9b21-40d8-93c8-45040e760c03" name="Ubuntu_python" url="http://127.0.0.1">
+        <fileTransfer rootFolder="/home/phk" accessType="SFTP" host="192.168.194.129" port="22" sshConfigId="bdfd0e16-1559-4630-910f-0d81aabb315f" sshConfig="phk@192.168.194.129:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
